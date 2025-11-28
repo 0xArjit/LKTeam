@@ -1,1 +1,3 @@
 # LKTeam
+
+Bypass app crash
