@@ -1,3 +1,3 @@
-# LKTeam
+# Redirector
 
-Bypass app crash
+Redirector for my personal apps
